@@ -22,14 +22,14 @@ Player 2:
 
 ### Credits
 
-Guide From:
+Guide From:\n
 http://www.edu4java.com/en/game/game0-en.html
 
-Audio Files:
--Blow.aiff
--Bottle.aiff
-Extracted from macOS default audio set
-Copyright Apple Inc.
+Audio Files:\n
+-Blow.aiff\n
+-Bottle.aiff\n
+Extracted from macOS default audio set\n
+Copyright Apple Inc.\n
 
 
 
