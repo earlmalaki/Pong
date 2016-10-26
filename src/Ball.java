@@ -1,3 +1,9 @@
+/**
+ * Earl Timothy D. Malaki
+ * BSCS - II | CMSC 22 - OOP
+ * MP #4 - Pong
+ */
+
 import java.awt.*;
 
 public class Ball {
