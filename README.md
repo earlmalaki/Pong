@@ -2,8 +2,11 @@
 
 A basic PingPong game made using Java.
 
+
 Left racquet represents Player 1.
+
 Right racquet represents Player 2.
+
 
 A machine problem (MP #4) submission in CMSC22 - Object Oriented Programming
 
@@ -14,6 +17,7 @@ Player 1:
   W - Move Up
   
   S - Move Down
+  
   
 Player 2:
 
