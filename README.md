@@ -10,6 +10,10 @@ Right racquet represents Player 2.
 
 A machine problem (MP #4) submission in CMSC22 - Object Oriented Programming
 
+An iteration of the game was made using Slick2D to solve responsiveness issues with Java KeyListener.
+
+Pong Slick2D Repo: https://github.com/earlmalaki/Pong_Slick
+
 ### Controls
 
 Player 1:
