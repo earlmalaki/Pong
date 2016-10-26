@@ -5,6 +5,8 @@ A basic PingPong game made using Java.
 Left racquet represents Player 1.
 Right racquet represents Player 2.
 
+A machine problem (MP #4) submission in CMSC22 - Object Oriented Programming
+
 ### Controls
 
 Player 1:
@@ -22,14 +24,20 @@ Player 2:
 
 ### Credits
 
-Guide From:\n
+Guide From:
+
 http://www.edu4java.com/en/game/game0-en.html
 
-Audio Files:\n
--Blow.aiff\n
--Bottle.aiff\n
-Extracted from macOS default audio set\n
-Copyright Apple Inc.\n
+Audio Files:
+
+-Blow.aiff
+
+-Bottle.aiff
+
+Extracted from macOS default audio set
+
+Audio Copyright - Apple Inc.
+
 
 
 
